@@ -38,3 +38,4 @@ terraform-old-storage/
 # Local Terraform generated files
 tfplan
 **/tfplan
+storage-backup/
